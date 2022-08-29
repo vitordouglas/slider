@@ -1,0 +1,3 @@
+Comandos do Git Hub
+
+$ git remote add -f -t master -m master origin git://example.com/git.git/
